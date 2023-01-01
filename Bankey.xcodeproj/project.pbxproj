@@ -14,6 +14,7 @@
 		1D6CEE182960E8B70023E904 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6CEE172960E8B70023E904 /* LoginView.swift */; };
 		1D6CEE1B2960EB650023E904 /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6CEE1A2960EB650023E904 /* OnboardingViewController.swift */; };
 		1D6CEE1D2960EE100023E904 /* OnboardingContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6CEE1C2960EE100023E904 /* OnboardingContainerViewController.swift */; };
+		1D6CEE1F296165EA0023E904 /* LogoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6CEE1E296165EA0023E904 /* LogoutViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1D6CEE172960E8B70023E904 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		1D6CEE1A2960EB650023E904 /* OnboardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewController.swift; sourceTree = "<group>"; };
 		1D6CEE1C2960EE100023E904 /* OnboardingContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingContainerViewController.swift; sourceTree = "<group>"; };
+		1D6CEE1E296165EA0023E904 /* LogoutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoutViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				1D6CEE052960DCD60023E904 /* LoginViewController.swift */,
 				1D6CEE172960E8B70023E904 /* LoginView.swift */,
+				1D6CEE1E296165EA0023E904 /* LogoutViewController.swift */,
 			);
 			path = Login;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D6CEE182960E8B70023E904 /* LoginView.swift in Sources */,
+				1D6CEE1F296165EA0023E904 /* LogoutViewController.swift in Sources */,
 				1D6CEE062960DCD60023E904 /* LoginViewController.swift in Sources */,
 				1D6CEE022960DCD60023E904 /* AppDelegate.swift in Sources */,
 				1D6CEE1D2960EE100023E904 /* OnboardingContainerViewController.swift in Sources */,
